@@ -4,7 +4,7 @@
 
 ### Third-level heading
 
-
+# Style
 Style	Syntax	Keyboard shortcut (if any)	Example	Output
 
 Bold	** ** or __ __	Ctrl+B (Windows/Linux)	**This is bold text**
@@ -23,7 +23,7 @@ Superscript	<sup> </sup>	This is a <sup>superscript</sup> text
 
 Underline	<ins> </ins>	This is an <ins>underlined</ins> text
 
-
+# Quotes
 You can quote text with a >.
 
 Text that is not a quote
@@ -31,8 +31,7 @@ Text that is not a quote
 > Text that is a quote
 
 
-Supported color models
-
+# Supported color models
 In issues, pull requests, and discussions, you can call out colors within a sentence by using backticks. A supported color model within backticks will display a visualization of the color.
 
 
@@ -56,7 +55,7 @@ A supported color model cannot have any leading or trailing spaces within the ba
 
 The visualization of the color is only supported in issues, pull requests, and discussions.
 
-
+# Notes
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
