@@ -4,7 +4,7 @@
 `### Third-level heading`
 
 # Style
-|Style | Syntax  | Example Output |
+| Style | Syntax  | Example Output |
 | ---- | | ---- | | ---- |
 | Bold | `** **` or `__ __` | **This is bold text** | 
 | Italic | `* *` or `_ _` | _This text is italicized_ | 
