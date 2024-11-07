@@ -3,6 +3,20 @@
 `## Second-level heading`
 `### Third-level heading`
 
+# Tables
+
+| Heading 1 | Heading 2 |
+| --- | --- | 
+| Item 1 | Stuff | 
+| Item 2 | Stuff | 
+
+```
+| Heading 1 | Heading 2 |
+| --- | --- | 
+| Item 1 | Stuff | 
+| Item 2 | Stuff | 
+```
+
 # Style
 
 | Style | Syntax  | Example Output |
