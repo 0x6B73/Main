@@ -1,1 +1,1 @@
-!0x6b.png[Picture of a snake]
+![Picture of a snake](/Images/0x6b.png)
