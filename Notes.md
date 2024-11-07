@@ -1,30 +1,29 @@
-# First-level heading
-
-## Second-level heading
-
-### Third-level heading
+# Headings 
+`# First-level heading`
+`## Second-level heading`
+`### Third-level heading`
 
 # Style
 Style	Syntax	Keyboard shortcut (if any)	Example	Output
 
-Bold	** ** or __ __	Ctrl+B (Windows/Linux)	**This is bold text**
+Bold	`** **` or `__ __`	Ctrl+B (Windows/Linux)	**This is bold text**
 
-Italic	* * or _ _     	Ctrl+I (Windows/Linux)	_This text is italicized_
+Italic	`* *` or `_ _`     	Ctrl+I (Windows/Linux)	_This text is italicized_
 
-Strikethrough	~~ ~~	~~This was mistaken text~~
+Strikethrough	`~~ ~~`	~~This was mistaken text~~
 
-Bold and nested italic	** ** and _ _	**This text is _extremely_ important**
+Bold and nested italic	`** **` and `_ _`	**This text is _extremely_ important**
 
-All bold and italic	*** ***	***All this text is important***
+All bold and italic	`*** ***`	***All this text is important***
 
-Subscript	<sub> </sub>	This is a <sub>subscript</sub> text
+Subscript	`<sub> </sub>`	This is a <sub>subscript</sub> text
 
-Superscript	<sup> </sup>	This is a <sup>superscript</sup> text
+Superscript	`<sup> </sup>`	This is a <sup>superscript</sup> text
 
-Underline	<ins> </ins>	This is an <ins>underlined</ins> text
+Underline	`<ins> </ins>`	This is an <ins>underlined</ins> text
 
 # Quotes
-You can quote text with a >.
+You can quote text with a `>`.
 
 Text that is not a quote
 
@@ -70,3 +69,50 @@ The visualization of the color is only supported in issues, pull requests, and d
 
 > [!CAUTION]
 > Negative potential consequences of an action.
+
+# Code Blocks
+Call out specific code using \`
+Check out this example `code`
+
+Call out multiple lines of code using \`\`\`
+```
+This is
+Multiple
+Lines of
+Code
+```
+
+# Lists
+You can make an unordered list by preceding one or more lines of text with `-`, `*`, or `+`.
+```
+- List item
+* List item
++ List item
+```
+- List item
+* List item
++ List item
+
+## Nested Lists
+1. List item
+    - 1st nested item
+        - 2nd nested item
+2. 2nd list item
+    - nested
+3. 3rd list item
+
+```
+1. List item
+    - 1st nested item
+        - 2nd nested item
+2. 2nd list item
+    - nested
+3. 3rd list item
+```
+
+
+## Tasklist
+- [] to do
+- [] to do
+- [x] done
+- [] \(Something) I needed to escape
