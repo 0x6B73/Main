@@ -4,23 +4,16 @@
 `### Third-level heading`
 
 # Style
-Style	Syntax	Keyboard shortcut (if any)	Example	Output
-
-Bold	`** **` or `__ __`	Ctrl+B (Windows/Linux)	**This is bold text**
-
-Italic	`* *` or `_ _`     	Ctrl+I (Windows/Linux)	_This text is italicized_
-
-Strikethrough	`~~ ~~`	~~This was mistaken text~~
-
-Bold and nested italic	`** **` and `_ _`	**This text is _extremely_ important**
-
-All bold and italic	`*** ***`	***All this text is important***
-
-Subscript	`<sub> </sub>`	This is a <sub>subscript</sub> text
-
-Superscript	`<sup> </sup>`	This is a <sup>superscript</sup> text
-
-Underline	`<ins> </ins>`	This is an <ins>underlined</ins> text
+|Style | Syntax  | Example Output |
+| ---- | | ---- | | ---- |
+| Bold | `** **` or `__ __` | **This is bold text** | 
+| Italic | `* *` or `_ _` | _This text is italicized_ | 
+| Strikethrough | `~~ ~~` | ~~This was mistaken text~~ |
+| Bold and nested italic | `** **` and `_ _` | **This text is _extremely_ important** |
+| All bold and italic | `*** ***` | ***All this text is important*** |
+| Subscript | `<sub> </sub>` | This is a <sub>subscript</sub> text | 
+| Superscript | `<sup> </sup>` | This is a <sup>superscript</sup> text | 
+| Underline | `<ins> </ins>` | This is an <ins>underlined</ins> text | 
 
 # Quotes
 You can quote text with a `>`.
