@@ -1,1 +1,1 @@
-NOTES
+!0x6b.png[Picture of a snake]
