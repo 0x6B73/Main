@@ -14,7 +14,6 @@ Get-Snake64 -encode "I love Python"
 Pretty simple, just run Get-Snake64
 
 .LINK
-https://wiki.killian.com
 
 #>
 
