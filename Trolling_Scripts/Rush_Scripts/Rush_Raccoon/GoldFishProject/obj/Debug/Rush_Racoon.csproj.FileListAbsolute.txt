@@ -1,0 +1,10 @@
+C:\toolshed\Rush_Raccoon\GoldFishProject\bin\Debug\Rush_Raccoon.exe.config
+C:\toolshed\Rush_Raccoon\GoldFishProject\bin\Debug\Rush_Raccoon.exe
+C:\toolshed\Rush_Raccoon\GoldFishProject\bin\Debug\Rush_Raccoon.pdb
+C:\toolshed\Rush_Raccoon\GoldFishProject\obj\Debug\Rush_Racoon.csprojAssemblyReference.cache
+C:\toolshed\Rush_Raccoon\GoldFishProject\obj\Debug\WinUpdate.WinUpdateForm.resources
+C:\toolshed\Rush_Raccoon\GoldFishProject\obj\Debug\FishTank.Properties.Resources.resources
+C:\toolshed\Rush_Raccoon\GoldFishProject\obj\Debug\Rush_Racoon.csproj.GenerateResource.cache
+C:\toolshed\Rush_Raccoon\GoldFishProject\obj\Debug\Rush_Racoon.csproj.CoreCompileInputs.cache
+C:\toolshed\Rush_Raccoon\GoldFishProject\obj\Debug\Rush_Raccoon.exe
+C:\toolshed\Rush_Raccoon\GoldFishProject\obj\Debug\Rush_Raccoon.pdb

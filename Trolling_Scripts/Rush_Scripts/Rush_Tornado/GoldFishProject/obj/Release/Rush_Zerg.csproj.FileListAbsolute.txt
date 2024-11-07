@@ -1,0 +1,10 @@
+C:\toolshed\Rush_Trump\GoldFishProject\bin\Release\Rush_Zerg.exe.config
+C:\toolshed\Rush_Trump\GoldFishProject\bin\Release\Rush_Zerg.exe
+C:\toolshed\Rush_Trump\GoldFishProject\bin\Release\Rush_Zerg.pdb
+C:\toolshed\Rush_Trump\GoldFishProject\obj\Release\Rush_Zerg.csprojAssemblyReference.cache
+C:\toolshed\Rush_Trump\GoldFishProject\obj\Release\WinUpdate.WinUpdateForm.resources
+C:\toolshed\Rush_Trump\GoldFishProject\obj\Release\FishTank.Properties.Resources.resources
+C:\toolshed\Rush_Trump\GoldFishProject\obj\Release\Rush_Zerg.csproj.GenerateResource.cache
+C:\toolshed\Rush_Trump\GoldFishProject\obj\Release\Rush_Zerg.csproj.CoreCompileInputs.cache
+C:\toolshed\Rush_Trump\GoldFishProject\obj\Release\Rush_Zerg.exe
+C:\toolshed\Rush_Trump\GoldFishProject\obj\Release\Rush_Zerg.pdb

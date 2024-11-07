@@ -1,0 +1,10 @@
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\bin\Debug\WinUpdate.exe.config
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\bin\Debug\WinUpdate.exe
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\bin\Debug\WinUpdate.pdb
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\obj\Debug\WinUpdate.WinUpdateForm.resources
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\obj\Debug\FishTank.Properties.Resources.resources
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\obj\Debug\WinUpdate.csproj.GenerateResource.cache
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\obj\Debug\WinUpdate.csproj.CoreCompileInputs.cache
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\obj\Debug\WinUpdate.exe
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\obj\Debug\WinUpdate.pdb
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\obj\Debug\WinUpdate.csprojAssemblyReference.cache

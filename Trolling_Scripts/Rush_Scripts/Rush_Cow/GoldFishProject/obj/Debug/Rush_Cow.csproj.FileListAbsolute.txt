@@ -1,0 +1,9 @@
+C:\toolshed\Rush_Cow\GoldFishProject\bin\Debug\Rush_Cow.exe.config
+C:\toolshed\Rush_Cow\GoldFishProject\bin\Debug\Rush_Cow.exe
+C:\toolshed\Rush_Cow\GoldFishProject\bin\Debug\Rush_Cow.pdb
+C:\toolshed\Rush_Cow\GoldFishProject\obj\Debug\WinUpdate.WinUpdateForm.resources
+C:\toolshed\Rush_Cow\GoldFishProject\obj\Debug\FishTank.Properties.Resources.resources
+C:\toolshed\Rush_Cow\GoldFishProject\obj\Debug\Rush_Cow.csproj.GenerateResource.cache
+C:\toolshed\Rush_Cow\GoldFishProject\obj\Debug\Rush_Cow.csproj.CoreCompileInputs.cache
+C:\toolshed\Rush_Cow\GoldFishProject\obj\Debug\Rush_Cow.exe
+C:\toolshed\Rush_Cow\GoldFishProject\obj\Debug\Rush_Cow.pdb

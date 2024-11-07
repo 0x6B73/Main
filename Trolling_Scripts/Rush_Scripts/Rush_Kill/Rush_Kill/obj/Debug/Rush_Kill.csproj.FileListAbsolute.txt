@@ -1,0 +1,7 @@
+c:\toolshed\Rush_Kill\Rush_Kill\bin\Debug\Rush_Kill.exe.config
+c:\toolshed\Rush_Kill\Rush_Kill\bin\Debug\Rush_Kill.exe
+c:\toolshed\Rush_Kill\Rush_Kill\bin\Debug\Rush_Kill.pdb
+c:\toolshed\Rush_Kill\Rush_Kill\obj\Debug\Rush_Kill.csprojAssemblyReference.cache
+c:\toolshed\Rush_Kill\Rush_Kill\obj\Debug\Rush_Kill.csproj.CoreCompileInputs.cache
+c:\toolshed\Rush_Kill\Rush_Kill\obj\Debug\Rush_Kill.exe
+c:\toolshed\Rush_Kill\Rush_Kill\obj\Debug\Rush_Kill.pdb

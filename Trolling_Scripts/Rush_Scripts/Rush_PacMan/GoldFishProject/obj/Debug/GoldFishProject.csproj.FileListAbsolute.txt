@@ -1,0 +1,10 @@
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\obj\Debug\FishTank.FishForm.resources
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\obj\Debug\FishTank.Properties.Resources.resources
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\obj\Debug\GoldFishProject.csproj.GenerateResource.cache
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\obj\Debug\GoldFishProject.csproj.CoreCompileInputs.cache
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\bin\Debug\FishTank.exe.config
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\bin\Debug\FishTank.exe
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\bin\Debug\FishTank.pdb
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\obj\Debug\FishTank.exe
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\obj\Debug\FishTank.pdb
+C:\toolshed\mwtb_v2\FishTank_src\GoldFishProject\obj\Debug\GoldFishProject.csprojAssemblyReference.cache

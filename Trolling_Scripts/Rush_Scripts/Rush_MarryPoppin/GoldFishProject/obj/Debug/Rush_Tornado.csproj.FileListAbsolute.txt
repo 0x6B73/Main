@@ -1,0 +1,10 @@
+C:\toolshed\Rush_Tornado\GoldFishProject\bin\Debug\Rush_Tornado.exe.config
+C:\toolshed\Rush_Tornado\GoldFishProject\bin\Debug\Rush_Tornado.exe
+C:\toolshed\Rush_Tornado\GoldFishProject\bin\Debug\Rush_Tornado.pdb
+C:\toolshed\Rush_Tornado\GoldFishProject\obj\Debug\Rush_Tornado.csprojAssemblyReference.cache
+C:\toolshed\Rush_Tornado\GoldFishProject\obj\Debug\WinUpdate.WinUpdateForm.resources
+C:\toolshed\Rush_Tornado\GoldFishProject\obj\Debug\FishTank.Properties.Resources.resources
+C:\toolshed\Rush_Tornado\GoldFishProject\obj\Debug\Rush_Tornado.csproj.GenerateResource.cache
+C:\toolshed\Rush_Tornado\GoldFishProject\obj\Debug\Rush_Tornado.csproj.CoreCompileInputs.cache
+C:\toolshed\Rush_Tornado\GoldFishProject\obj\Debug\Rush_Tornado.exe
+C:\toolshed\Rush_Tornado\GoldFishProject\obj\Debug\Rush_Tornado.pdb

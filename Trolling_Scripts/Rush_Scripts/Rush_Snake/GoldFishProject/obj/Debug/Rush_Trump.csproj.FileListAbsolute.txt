@@ -1,0 +1,9 @@
+C:\toolshed\Rush_Trump\GoldFishProject\bin\Debug\Rush_Trump.exe.config
+C:\toolshed\Rush_Trump\GoldFishProject\bin\Debug\Rush_Trump.exe
+C:\toolshed\Rush_Trump\GoldFishProject\bin\Debug\Rush_Trump.pdb
+C:\toolshed\Rush_Trump\GoldFishProject\obj\Debug\WinUpdate.WinUpdateForm.resources
+C:\toolshed\Rush_Trump\GoldFishProject\obj\Debug\FishTank.Properties.Resources.resources
+C:\toolshed\Rush_Trump\GoldFishProject\obj\Debug\Rush_Trump.csproj.GenerateResource.cache
+C:\toolshed\Rush_Trump\GoldFishProject\obj\Debug\Rush_Trump.csproj.CoreCompileInputs.cache
+C:\toolshed\Rush_Trump\GoldFishProject\obj\Debug\Rush_Trump.exe
+C:\toolshed\Rush_Trump\GoldFishProject\obj\Debug\Rush_Trump.pdb
